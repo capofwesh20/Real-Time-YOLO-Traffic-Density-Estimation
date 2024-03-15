@@ -54,7 +54,7 @@ Get hands-on with the model development process and see the results of traffic d
 **Update Paths:** Update the paths in the notebook for the dataset, sample image, and sample video to their respective locations on your local system.
 **Run the Notebook:** Execute all cells in the notebook to step through the data preprocessing, model training, and evaluation phases.
 
-```markdown
+
 ### 3️⃣ Watching the Real-Time Performance
 
 Witness the real-time traffic analysis capability of our YOLOv8 model:
@@ -75,5 +75,4 @@ python Real_time_analysis.py
 Once the script is running, a video window will open, displaying the live traffic analysis. This window will show the YOLOv8 model in action, detecting vehicles and estimating traffic density in real time.
 
 To close the video window and exit the analysis, simply press 'q' while the video window is active.
-```
 
