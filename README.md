@@ -61,15 +61,6 @@ Witness the real-time traffic analysis capability of our YOLOv8 model:
 #### Install Ultralytics YOLO
 Ensure you have the ultralytics package installed by running:
 ```bash
-pip install ultralytics```
+pip install ultralytics
 
-Run the Analysis Script
-With the Ultralytics package installed, you're ready to execute the script that powers the real-time traffic density estimation. Run the following command from the root directory of the project:
-```bash
-python Real time analysis.py
-
-Real-Time Analysis
-Once the script is running, a video window will open, displaying the live traffic analysis. This window will show the YOLOv8 model in action, detecting vehicles and estimating traffic density in real time.
-
-To close the video window and exit the analysis, simply press q while the video window is active.
 
