@@ -1,5 +1,5 @@
 # Real-Time-YOLO-Traffic-Density-Estimation
-![Real Time Analysis]([URL_of_GIF](https://github.com/capofwesh20/Real-Time-YOLO-Traffic-Density-Estimation/blob/main/download%20(3).gif))
+![Real Time Analysis](Real-time Analysis.gif)
 
 ![image](https://github.com/capofwesh20/Real-Time-YOLO-Traffic-Density-Estimation/assets/35642413/ad717cd2-7c2e-40b4-9f78-246b5623845b)
 
